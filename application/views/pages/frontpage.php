@@ -57,12 +57,12 @@
         <div class="col-lg-4">
           <img class="img-circle" src="<?php echo base_url("assets/img/content_images/quote.jpg");?>">
           <h2>Get a Quote!</h2>
-          <p>Our new-and-improved quote form is coming soon. Until then, tell us about your project by emailing <a href="mailto:quotes@inkmule.com">quotes@inkmule.com</a> . We'll respond right away with plenty of pricing options to make your project awesome and affordable!  Use the link below to get an instant quote.</p>
+          <p>Our new and improved design studio is here! Now you can design your own custom apparel, get an instant quote, and order it right from our website.  Our catalog of high quality vector art helps you get designing fast</p>
           <p><a class="btn" href=<?php echo base_url("quote/");?>">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="<?php echo base_url("assets/img/content_images/pencils-small.jpg");?>">
-          <h2>Need Artwork?</h2>
+          <h2>Need Custom Art?</h2>
           <p>Whether you need your ideas turned into a graphic, or you have some lovely napkin scribbles you want cleaned up, our team of professional designers will take care of it. Unlike the other guys, inkmule includes one hour of art time free with every order.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
