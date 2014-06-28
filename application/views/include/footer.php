@@ -1,3 +1,16 @@
+<footer>
+	<div class="container">
+		<hr>
+		<p class="pull-right">
+			<a href="#">Back to top</a>
+		</p>
+	
+		<p>
+			© 2014 Company, Inc. · <a href="<?php echo base_url("info/");?>">Legal Info</a> · <a href="<?php echo base_url("terms/");?>">Terms</a>
+		</p>
+	</div>
+</footer>
+
    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>

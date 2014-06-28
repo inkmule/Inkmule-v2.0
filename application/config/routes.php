@@ -41,6 +41,8 @@
 $route['default_controller'] = "pages/view";
 $route['quote'] = 'pages/view/quote';
 $route['samples'] = 'pages/view/samples';
+$route['info'] = 'pages/view/info';
+$route['terms'] = 'pages/view/terms';
 $route['404_override'] = '';
 
 

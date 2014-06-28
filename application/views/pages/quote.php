@@ -1,6 +1,7 @@
-<div class="container">
-	<h1>Design your own apparel</h1>
-	<p>Our design studio allows you to design your next apparel yourself.  Just pick the garment you want and start designing.  Don't have your own artwork? No problem.  We have plenty of high-quality customisable artwork to get you started.  If you're looking for something really different, just send us a note and one of our artists will help you out!</p>
+<div class="container" style="max-width: 960px;">
+	<h1>Design your apparel now!</h1>
+	<p>Our online designer allows you to browse products, upload existing artwork or create custom designs from our clipart and fonts. Need some ideas? We have tons of pre-loaded templates! Select one from "Design Ideas" and adjust the text and colors to fit your needs!</p>
+	<p>Still need help? <a href="mailto:logan@inkmule.com">Email us now</a>.</p>
 </div>
 <div class="design-studio">
     <script type="text/javascript" language="javascript" src="http://stores.inksoft.com/designer/html5/common/js/launcher.js"></script>

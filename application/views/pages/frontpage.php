@@ -12,8 +12,8 @@
 	  <img src="<?php echo base_url("assets/img/carousel/shirts1.jpg");?>" class="carousel-img">
 	  <div class="carousel-caption">
 		  <h1>inkmule does better custom apparel.</h1>
-		  <p class="lead">If you're looking for an easier solution for high-end custom apparel, look no further. We offer fast turnaround times, free art help, and one-on-one consulting. Oh yeah, and we never charge screen or setup fees.</p>
-		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Get started now</a>
+		  <p class="lead">If you're looking for an easier solution for high-end custom apparel, look no further. We offer fast turnaround times, free art help, and one-on-one consulting. Oh yeah, and we <strong>never charge screen or setup fees.</strong></p>
+		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Start Designing Now</a>
 	  </div>
 	</div>
 	
@@ -21,8 +21,8 @@
 	  <img src="<?php echo base_url("assets/img/carousel/cd_tags.jpg");?>" class="carousel-img">
 	  <div class="carousel-caption">
 		  <h1>Start your own clothing line.</h1>
-		  <p class="lead">We work with you to build your brand, because we want you to be successful. From custom tags to folding and bagging, we offer options to turn your designs into retail-ready garments that your customers will love, and we do all of this within your budget.</p>
-		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Get started now</a>
+		  <p class="lead">From custom tags to folding and bagging, we offer options to turn your designs into retail-ready garments that your customers will love, and we do all of this within your budget.</p>
+		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Start Your Brand Here</a>
 	  </div>
 	</div>
 	
@@ -31,7 +31,7 @@
 	  <div class="carousel-caption">
 		  <h1>More than just shirts.</h1>
 		  <p class="lead">Screen printing is great, but it's not right for everything. That's why we offer full color digital printing using the most current technology, embroidery, pad printing, die-cut stickers and much, much more.</p>
-		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Get started now</a>
+		  <a class="btn btn-large btn-primary" href="<?php echo base_url("quote/");?>">Browse Our Products</a>
 	  </div>
 	</div>
 	
@@ -137,8 +137,6 @@
           </p>
         </div>
       </div>
-
-      <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
 

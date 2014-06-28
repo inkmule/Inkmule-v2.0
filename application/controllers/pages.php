@@ -13,16 +13,12 @@ class Pages extends Main_Controller {
 	
 	$this->load->view('include/header');	
 	
-		switch ($page) {
-			case "home":
-				$this->load->view('pages/frontpage');
-				break;
-			case "quote":
-				$this->load->view('pages/quote');
-				break;
-			case "samples":
-				$this->load->view('pages/samples');
-				break;
+		//auto-map page name to a view of the same name
+		//place exceptions at the top (e.g. home-->frontpage)
+		if($page=="home"){
+			$this->load->view('pages/frontpage');
+		}else{
+			$this->load->view('pages/' . $page);
 		}
 		
 	$this->load->view('include/footer');

@@ -40,16 +40,17 @@
 			<a href="<?php echo base_url("quote/");?>">Start Designing!</a>
 		</li>
 		<li <?php if($this->uri->segment(1) == 'samples') echo('class="active"');?>>
-			<a href="<?php echo base_url("samples/");?>">Samples</a>
+			<a href="<?php echo base_url("samples/");?>">Examples</a>
 		</li>
       </ul>
       
       <ul class="nav navbar-nav navbar-right">
         
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connect with us<b class="caret"></b></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Get in touch<b class="caret"></b></a>
           <ul class="dropdown-menu">
-            <li><a href="https://www.facebook.com/pages/inkmule/273839796082073" target="_blank">facebook</a></li>
+            <li><a href="mailto:logan@inkmule.com" target="_blank">send us an email</a></li>
+			<li><a href="https://www.facebook.com/pages/inkmule/273839796082073" target="_blank">facebook</a></li>
             <li><a href="https://twitter.com/inkmule" target="_blank">twitter</a></li>
             <li><a href="http://instagram.com/inkmule" target="_blank">instagram</a></li>
           </ul>
