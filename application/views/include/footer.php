@@ -6,7 +6,7 @@
 		</p>
 	
 		<p>
-			© 2014 Company, Inc. · <a href="<?php echo base_url("info/");?>">Legal Info</a> · <a href="<?php echo base_url("terms/");?>">Terms</a>
+			© 2014 Inkmule, LLC · <a href="<?php echo base_url("info/");?>">Legal Info</a> · <a href="<?php echo base_url("terms/");?>">Terms</a>
 		</p>
 	</div>
 </footer>
