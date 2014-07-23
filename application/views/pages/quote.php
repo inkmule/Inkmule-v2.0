@@ -4,7 +4,7 @@
 	<p>Still need help? <a href="mailto:logan@inkmule.com">Email us now</a>.</p>
 </div>
 <div class="design-studio">
-    <script type="text/javascript" language="javascript" src="http://stores.inksoft.com/designer/html5/common/js/launcher.js"></script>
+    <script type="text/javascript" language="javascript" src="https://stores.inksoft.com/designer/html5/common/js/launcher.js"></script>
     <div align="center" id="embeddedDesigner"></div>
     <script type="text/javascript" language="javascript">
         var flashvars = {
