@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'https://inkmule.com/';
 
 /*
 |--------------------------------------------------------------------------
@@ -30,7 +30,7 @@ $config['base_url']	= '';
 | to the CDN. 
 |
 */
-$config['cdn_url']	= '';
+$config['cdn_url']	= 'https://inkmule.com/';
 
 /*
 |--------------------------------------------------------------------------
