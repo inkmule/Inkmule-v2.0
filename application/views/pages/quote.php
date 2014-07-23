@@ -77,7 +77,7 @@
 		HideProductPricing: false,
 		HideClipArtNames: true,
 		HideDesignNames: true,
-		DesignerLocation: "http://stores.inksoft.com/designer/html5",
+		DesignerLocation: "https://stores.inksoft.com/designer/html5",
 		ThemeName: "flat",
 		EmbedType: "iframe",
 		BackgroundColor: ""};
