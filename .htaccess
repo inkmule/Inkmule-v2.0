@@ -3,8 +3,8 @@ RewriteEngine on
 #for clean URLs
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^/(.*)$ index.php/$0 [PT,L]
+RewriteRule .* index.php/$0 [PT,L]
 
 #force https
 RewriteCond %{HTTP:X-Forwarded-Proto} !=https
-RewriteRule ^/(.*)$ https://%{SERVER_NAME}/$1 [R=301,L]
+RewriteRule .* https://%{SERVER_NAME}/$1 [R=301,L]
