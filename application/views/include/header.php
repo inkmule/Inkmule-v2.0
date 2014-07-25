@@ -7,6 +7,7 @@
    <meta name="keywords" content="">
    <meta name="author" content="">
 
+   <link rel="icon" href="<?php echo base_url('assets/img/ico/favicon.ico') ?>" type="image/gif">
    <title>Inkmule | Custom T-shirts and Merchandise</title>
 
    <link href="<?php echo base_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet">
